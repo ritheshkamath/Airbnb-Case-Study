@@ -5,5 +5,5 @@ Understand key insights from Airbnb NYC business from the provided dataset &amp;
 **Technology / Applications used: Microsoft Excel, Tableau**
 
 Note: 
-Group 1 - Visualizations for data analysis managers and lead data analyst
-Group 2 - Visualizations for Head of Acquisitions & Operations and the Head of User Experience
+- Group 1 - Visualizations for data analysis managers and lead data analyst
+- Group 2 - Visualizations for Head of Acquisitions & Operations and the Head of User Experience
